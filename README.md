@@ -5,6 +5,8 @@
 <h2 align="center">Everblush st Colorscheme</h2>
 <p>
 <h4 align="center" <i>Everblush Colorscheme for st(Simple Terminal)</i>
+</h4>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/vt-d/st?color=e5c76b&labelColor=22292b&style=for-the-badge">
