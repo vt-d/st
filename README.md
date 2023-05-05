@@ -4,7 +4,7 @@
 
 <h2 align="center">Everblush st Colorscheme</h2>
 <p>
-<h4 align="center" <i>Everblush Colorscheme for st(Simple Terminal)</i>
+<h4 align="center" <i>Everblush Colorscheme for st)</i>
 </h4>
 </p>
 
