@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/Everblush/assets/raw/main/st/st.png">
+<img src="https://github.com/Everblush/assets/raw/main/st/st.png" align="center">
 
 ## Installation
 
