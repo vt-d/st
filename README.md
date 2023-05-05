@@ -9,15 +9,16 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/vt-d/st?color=e5c76b&labelColor=22292b&style=for-the-badge">
-<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/vt-d/st?color=e74c4c&labelColor=1b2224&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/vt-d/st?color=e5c76b&labelColor=22292b&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/vt-d/st?color=e74c4c&labelColor=1b2224&style=for-the-badge">
 </p>
 
 
 ## Screenshots
-
-<img src="https://github.com/Everblush/assets/raw/main/st/st.png" align="center">
+<p align="center">
+  <img src="https://github.com/Everblush/assets/raw/main/st/st.png">
+</p>
 
 ## Installation
 
