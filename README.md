@@ -22,7 +22,7 @@
 
 ## Installation
 
-You can install this config by adding the following lines from 'everblush.h' in this repository over to your config.def.h!
+You can install this config by adding the following lines from 'everblush.h' in this repository over to your config.h/config.def.h!
 
 ## Credits 💝
 - [vt-d](https://github.com/vt-d)
